@@ -1,2 +1,2 @@
-# Physics-88-Sp21
-Physics 88 - Spring 21
+# Physics-88-Fa21
+Physics 88 - Fall 21
