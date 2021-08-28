@@ -2,8 +2,8 @@
 
 int main()
 {
-  printf("Hello, Yury!\n");
-  printf("Hello again, Yury!\n");
+  printf("Hello, Heather!\n");
+  printf("Hello again, Heather!\n");
 
   int i = 5;
 
